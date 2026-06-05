@@ -1,4 +1,4 @@
-# 🇨🇦 Canadian Labour Market Dashboard
+# Canadian Labour Market Dashboard
 
 An end-to-end data pipeline and interactive Power BI dashboard analyzing Canadian employment trends from 2015 to 2026, built using real Statistics Canada data.
 
