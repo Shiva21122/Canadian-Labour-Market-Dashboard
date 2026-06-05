@@ -142,7 +142,6 @@ py scripts/verify_db.py
 - Table: 14-10-0287-01
 - Frequency: Monthly (seasonally adjusted)
 - Coverage: All Canadian provinces
-- URL: https://www150.statcan.gc.ca/t1/tbl1/en/dtbl!14-10-0287-01
 
 Data is publicly available under the Statistics Canada Open Licence.
 
