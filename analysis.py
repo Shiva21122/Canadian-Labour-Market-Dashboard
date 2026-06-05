@@ -5,7 +5,7 @@ conn = psycopg2.connect(
     host="localhost",
     database="postgres",
     user="postgres",
-    password="Tryingnew21"  
+    password="Password"  
 )
 
 #Query 1 - Covid impact: unemployment rate Canada-wide average by year
