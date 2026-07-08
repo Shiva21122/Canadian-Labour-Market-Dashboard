@@ -16,7 +16,7 @@ try:
         host="localhost",
         database="postgres",
         user="postgres",
-        password="Tryingnew21"
+        password="Password"
     )
     print("Database connection successful.")
     cursor = conn.cursor()
